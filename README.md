@@ -1,1 +1,1 @@
-# AIMs
+# AIMs/NUST Hackathon
